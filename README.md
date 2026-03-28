@@ -1,9 +1,17 @@
 # Claude_Ai_2.0-n8n
 # Manickam's N8N Project For Sysway Tech
 
+
+
+
+
+![alt](./Screenshot%202026-03-28%20154003.png)
+
+
 A fully functional AI-powered chat module built with n8n workflow automation and a beautiful custom HTML/CSS/JS frontend.
 
 ## Files
+![alt](./Screenshot%202026-03-28%20150848.png)
 
 - `claude_chat_ui.html` — Frontend chat interface
 - `claude_chat_n8n_workflow.json` — n8n backend workflow for Claude
@@ -11,6 +19,8 @@ A fully functional AI-powered chat module built with n8n workflow automation and
 - `gemini_chat_n8n_workflow.json` — n8n backend workflow for Gemini
 
 ## n8n Workflow Nodes
+![alt](./Screenshot%202026-03-28%20143756.png)
+
 
 | Node | Purpose |
 |---|---|
